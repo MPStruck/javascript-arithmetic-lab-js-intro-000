@@ -8,6 +8,6 @@ function add(){
   c = a + b
 }
 
-add (a, b)
+add ()
 
 console.log(c)
