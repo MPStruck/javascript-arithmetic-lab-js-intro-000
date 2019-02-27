@@ -4,7 +4,7 @@ var b = 20
 
 var c
 
-fuction add(a, b) {
+fuction add() {
   c = a + b
 }
 
