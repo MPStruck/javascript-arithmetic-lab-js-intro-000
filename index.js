@@ -4,10 +4,10 @@ var b = 20
 
 var c
 
-fuction Add(a, b) {
+fuction add(a, b) {
   c = a + b
 }
 
-Add(a, b)
+add(a, b)
 
 console.log(c)
