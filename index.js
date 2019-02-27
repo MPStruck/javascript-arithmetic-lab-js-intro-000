@@ -1,13 +1,6 @@
-var a = 10
+var a, b
 
-var b = 5
-
-var c
-
-function add(){
-  c = a + b
-}
-
-add ()
-
-console.log(c)
+beforeEach(function() {
+  a = Math.floor(Math.random() * 1000)
+  b = Math.floor(Math.random() * 1000)
+})
